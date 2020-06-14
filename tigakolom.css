@@ -1,0 +1,5 @@
+.kolom {
+    column-count: 3;
+    column-gap: 50px;
+    column-rule: 20px;
+  }
