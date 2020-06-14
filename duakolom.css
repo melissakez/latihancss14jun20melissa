@@ -1,0 +1,6 @@
+
+.kolom {
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: 20px;
+  }
